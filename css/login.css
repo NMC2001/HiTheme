@@ -1,0 +1,19 @@
+body{
+    margin-left: 30%;
+    margin-top: 7%;
+    width: 40%;
+    border: 1px solid #151415;
+    border-radius: 15px;
+}
+form{
+    padding: 40px;
+    
+}
+a{
+    text-align: none;
+color: white;
+}
+a:hover{
+    text-align: none;
+    color: white;
+}
